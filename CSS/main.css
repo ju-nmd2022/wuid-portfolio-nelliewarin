@@ -1,0 +1,112 @@
+header {
+  color: rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 90px;
+  text-align: center;
+  background-color: rgb(245, 142, 8);
+}
+
+.nollie {
+  border-radius: 50%;
+  float: left;
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 400px;
+  margin-bottom: 50px;
+}
+
+.cat {
+  width: 609px;
+  float: right;
+}
+
+.oscar {
+  width: 300px;
+  border-radius: 50%;
+  float: right;
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
+.drink {
+  width: 300px;
+  border-radius: 50%;
+  float: right;
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
+p {
+  width: 320px;
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  margin-left: 493px;
+  margin-top: 10px;
+}
+
+a {
+  color: rgb(245, 142, 8);
+}
+
+footer {
+  width: 300px;
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 15px;
+  margin-top: 150px;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: normal;
+  font-size: 35px;
+  color: rgb(245, 142, 8);
+}
+
+.list {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: normal;
+  font-size: 35px;
+  color: rgb(245, 142, 8);
+}
+
+.presentation {
+  margin-left: 493px;
+  margin-top: 50px;
+}
+
+ul {
+  width: 300px;
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  margin-left: 100px;
+  margin-top: 50px;
+  color: black;
+}
+
+.pictext {
+  width: 300px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  float: right;
+  margin-right: 30px;
+}
+
+.drinktext {
+  width: 300px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  float: right;
+  margin-right: 30px;
+}
+
+div {
+  width: 300px;
+  float: right;
+}
